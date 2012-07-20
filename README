@@ -1,0 +1,4 @@
+Middleware to handle uploads from qq.FileUpload.
+Different Stores available:
+ - s3
+ - more to come
